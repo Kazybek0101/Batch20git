@@ -7,5 +7,7 @@ public class Class1 {
         System.out.println("git stash");
         System.out.println("git stash from br1");
         System.out.println("on master");
+        System.out.println("overriden something");
+
     }
 }
